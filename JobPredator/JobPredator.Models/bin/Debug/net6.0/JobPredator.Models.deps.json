@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "JobPredator.Models/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Abstractions": "6.0.31"
+        },
+        "runtime": {
+          "JobPredator.Models.dll": {}
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Abstractions/6.0.31": {
+        "runtime": {
+          "lib/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {
+            "assemblyVersion": "6.0.31.0",
+            "fileVersion": "6.0.3124.26901"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JobPredator.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.EntityFrameworkCore.Abstractions/6.0.31": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8AdITHMZ7eTEAsND9lK3aJYjDRPnrzKYqRzTbPslTlkz3hf0xheMZKT+bZj6TCNoo6If06yBOtSwnuAdApkCtA==",
+      "path": "microsoft.entityframeworkcore.abstractions/6.0.31",
+      "hashPath": "microsoft.entityframeworkcore.abstractions.6.0.31.nupkg.sha512"
+    }
+  }
+}

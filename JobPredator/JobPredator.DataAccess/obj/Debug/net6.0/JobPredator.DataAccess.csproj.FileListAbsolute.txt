@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.DataAccess\bin\Debug\net6.0\JobPredator.DataAccess.deps.json
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.DataAccess\bin\Debug\net6.0\JobPredator.DataAccess.dll
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.DataAccess\bin\Debug\net6.0\JobPredator.DataAccess.pdb
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.DataAccess\bin\Debug\net6.0\JobPredator.Models.dll
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.DataAccess\bin\Debug\net6.0\JobPredator.Models.pdb
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.DataAccess\obj\Debug\net6.0\JobPredator.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.DataAccess\obj\Debug\net6.0\JobPredator.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.DataAccess\obj\Debug\net6.0\JobPredator.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.DataAccess\obj\Debug\net6.0\JobPredator.DataAccess.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.DataAccess\obj\Debug\net6.0\JobPredator.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.DataAccess\obj\Debug\net6.0\JobPredator.DataAccess.csproj.CopyComplete
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.DataAccess\obj\Debug\net6.0\JobPredator.DataAccess.dll
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.DataAccess\obj\Debug\net6.0\refint\JobPredator.DataAccess.dll
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.DataAccess\obj\Debug\net6.0\JobPredator.DataAccess.pdb
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.DataAccess\obj\Debug\net6.0\ref\JobPredator.DataAccess.dll
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.DataAccess\bin\Debug\net6.0\JobPredator.DataAccess.runtimeconfig.json
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.DataAccess\obj\Debug\net6.0\JobPredator.DataAccess.genruntimeconfig.cache

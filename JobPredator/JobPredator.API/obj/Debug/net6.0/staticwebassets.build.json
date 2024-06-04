@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5qV4mFqTA9mMOipvY7rMCs8GgmlRKcO8S4wbth82K3U=",
+  "Source": "JobPredator.API",
+  "BasePath": "_content/JobPredator.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

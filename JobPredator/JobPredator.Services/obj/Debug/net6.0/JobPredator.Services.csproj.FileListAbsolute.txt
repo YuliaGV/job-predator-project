@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.Services\bin\Debug\net6.0\JobPredator.Services.deps.json
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.Services\bin\Debug\net6.0\JobPredator.Services.dll
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.Services\bin\Debug\net6.0\JobPredator.Services.pdb
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.Services\bin\Debug\net6.0\JobPredator.DataAccess.dll
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.Services\bin\Debug\net6.0\JobPredator.Models.dll
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.Services\bin\Debug\net6.0\JobPredator.DataAccess.pdb
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.Services\bin\Debug\net6.0\JobPredator.Models.pdb
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.Services\obj\Debug\net6.0\JobPredator.Services.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.Services\obj\Debug\net6.0\JobPredator.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.Services\obj\Debug\net6.0\JobPredator.Services.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.Services\obj\Debug\net6.0\JobPredator.Services.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.Services\obj\Debug\net6.0\JobPredator.Services.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.Services\obj\Debug\net6.0\JobPredator.Services.csproj.CopyComplete
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.Services\obj\Debug\net6.0\JobPredator.Services.dll
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.Services\obj\Debug\net6.0\refint\JobPredator.Services.dll
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.Services\obj\Debug\net6.0\JobPredator.Services.pdb
+C:\Users\Usuario\Desktop\DotNETProjects\job-predator-project\JobPredator\JobPredator.Services\obj\Debug\net6.0\ref\JobPredator.Services.dll
