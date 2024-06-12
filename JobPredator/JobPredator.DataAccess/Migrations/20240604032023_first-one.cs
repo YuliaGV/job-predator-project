@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace JobPredator.DataAccess.Migrations
 {
-    public partial class first : Migration
+    public partial class firstone : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -55,6 +55,12 @@ namespace JobPredator.DataAccess.Migrations
                 name: "IX_jobs_CompanyId",
                 table: "jobs",
                 column: "CompanyId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_jobs_url_title_location",
+                table: "jobs",
+                columns: new[] { "url", "title", "location" },
+                unique: true);
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)

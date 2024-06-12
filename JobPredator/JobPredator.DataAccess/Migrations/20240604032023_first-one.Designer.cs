@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace JobPredator.DataAccess.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20240531162550_fix-job-model")]
-    partial class fixjobmodel
+    [Migration("20240604032023_first-one")]
+    partial class firstone
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -101,18 +101,19 @@ namespace JobPredator.DataAccess.Migrations
 
                     b.HasIndex("CompanyId");
 
+                    b.HasIndex("Url", "Title", "Location")
+                        .IsUnique();
+
                     b.ToTable("jobs");
                 });
 
             modelBuilder.Entity("JobPredator.Models.Job", b =>
                 {
-                    b.HasOne("JobPredator.Models.Company", "Company")
+                    b.HasOne("JobPredator.Models.Company", null)
                         .WithMany("Jobs")
                         .HasForeignKey("CompanyId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-
-                    b.Navigation("Company");
                 });
 
             modelBuilder.Entity("JobPredator.Models.Company", b =>

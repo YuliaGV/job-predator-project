@@ -107,13 +107,11 @@ namespace JobPredator.DataAccess.Migrations
 
             modelBuilder.Entity("JobPredator.Models.Job", b =>
                 {
-                    b.HasOne("JobPredator.Models.Company", "Company")
+                    b.HasOne("JobPredator.Models.Company", null)
                         .WithMany("Jobs")
                         .HasForeignKey("CompanyId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-
-                    b.Navigation("Company");
                 });
 
             modelBuilder.Entity("JobPredator.Models.Company", b =>
